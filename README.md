@@ -3,7 +3,7 @@
 Sitio web desarrollado como proyecto de práctica en **desarrollo web frontend**, enfocado en la maquetación, estructura y diseño responsive.
 
 🔗 **Demo en vivo:**  
-https://celealdaocode.github.io/misititioweb/
+https://celealdaocode.github.io/misitioweb/
 
 ---
 
